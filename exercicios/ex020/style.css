@@ -1,0 +1,30 @@
+.destaque{
+    background-color: yellow;
+}
+
+#negrito{
+    font-weight: bold;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+#vermelha{
+    background-color: rgb(206, 6, 6);
+}
+
+#verde{
+    background-color: darkgreen;
+}
+
+.azul{
+    background-color: darkblue;
+}
+
+#cinza{
+    background-color: rgb(163, 163, 163);
+}

@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+
+:root{
+    --font0: Passion One, sans-serif;
+    --font1: Sriracha, cursive;
+    --font2: Arial, Verdana, Helvetica, sans-serif;
+}
+
+body{
+    margin: 0px;
+}
+
+header{
+    font-family: var(--font0);
+    text-align: center;
+    line-height: 0.2em;
+    background-color: black;
+    padding: 40px;
+    color: white;
+}
+
+header > h1{
+    font-size: 3em;
+}
+
+header > p{
+    font-family: var(--font2);
+}
+
+main{
+    font-family: var(--font1);
+}
