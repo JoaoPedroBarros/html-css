@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap');
+
+body{
+    font: 19px Parkinsans;
+}
+#p1{
+    text-align: left;
+}
+#p2{
+    text-align: right;
+}
+#p3{
+    text-align: center;
+}
+#p_ultimo{
+    text-align: justify;
+}

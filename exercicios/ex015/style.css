@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(244, 244, 139);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: rgb(231, 163, 3);
+    color: darkred;
+}
+h2{
+    color: darkred;
+}
+.meu-link{
+    text-align: end;
+}
+p{
+    text-align: justify;
+}

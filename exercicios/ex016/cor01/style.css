@@ -1,0 +1,25 @@
+#titulo_nome{
+    color: white;
+    background-color: darkblue;
+}
+
+#titulo-hexa{
+    color: #ffffff;
+    background-color: #00008b;
+}
+
+#titulo-rgb{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 139);
+}
+
+#titulo-hsl{
+    color: hsl(180, 0%, 100%);
+    background-color: hsl(240, 100%, 27%);
+}
+
+#titulo-transparencia{
+    color: #ffffff;
+    background-color: rgba(0, 0, 139, 50%);
+    /*background-color: hsla(240, 100%, 27%, 50%);*/
+}
